@@ -12,7 +12,7 @@ Install Maven on:
 * Windows: refer to this [guide](https://www.mkyong.com/maven/how-to-install-maven-in-windows/)
 
 ## Import project to Eclipse IDE
-After installing Maven, you should be able to Import the project into the Eclipse workspace by choosing "Import" -> "Maven" -> "Existing Maven project". Select the path to the `pom.xml` file of your project and click "Finish". The Eclipse IDE should be able to automatically install project dependencies if Maven is properly installed.
+After installing Maven, you should be able to Import the project into the Eclipse workspace by choosing "Import" -> "Maven" -> "Existing Maven project". Select the path to the `pom.xml` file of your project and click "Finish". The Eclipse IDE should be able to automatically install project dependencies if Maven is properly installed. 
 
 Refer to [this guide](http://stackoverflow.com/questions/2061094/importing-maven-project-into-eclipse) if you meet any issues for importing.
 
